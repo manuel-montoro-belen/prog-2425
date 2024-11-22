@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"prog.unidad04.actividad402.ejercicio08","l":"IntervaloTiempo"},{"p":"prog.unidad04.actividad402.ejercicio08a","l":"IntervaloTiempo"}];updateSearchResults();
