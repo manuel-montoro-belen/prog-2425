@@ -1,0 +1,76 @@
+{
+    "estudiantes": [
+        {
+            "nombreTitulacion": "eso",
+            "nombreEstudiante": {
+                "nombre": "Juan",
+                "apellido": "Perez"
+            },
+            "email": "correo1@gmail.com",
+            "repite": true,
+            "amigos": [
+                "alba",
+                "antonio",
+                "manolo"
+            ],
+            "asignaturas": [
+                {
+                    "nombreAsignatura": "matematicas",
+                    "nota": 7
+                },
+                {
+                    "nombreAsignatura": "lengua",
+                    "nota": 8
+                }
+            ]
+        },
+        {
+            "nombreTitulacion": "eso",
+            "nombreEstudiante": {
+                "nombre": "Ana",
+                "apellido": "Garcia"
+            },
+            "email": "correo2@gmail.com",
+            "repite": false,
+            "amigos": [
+                "luis",
+                "maria",
+                "juan"
+            ],
+            "asignaturas": [
+                {
+                    "nombreAsignatura": "matematicas",
+                    "nota": 9
+                },
+                {
+                    "nombreAsignatura": "fisica",
+                    "nota": 6
+                }
+            ]
+        },
+        {
+            "nombreTitulacion": "FPB",
+            "nombreEstudiante": {
+                "nombre": "Luis",
+                "apellido": "Rodriguez"
+            },
+            "email": "correo3@gmail.com",
+            "repite": true,
+            "amigos": [
+                "ana",
+                "juan",
+                "antonio"
+            ],
+            "asignaturas": [
+                {
+                    "nombreAsignatura": "lengua",
+                    "nota": 5
+                },
+                {
+                    "nombreAsignatura": "historia",
+                    "nota": 4
+                }
+            ]
+        }
+    ]
+}
